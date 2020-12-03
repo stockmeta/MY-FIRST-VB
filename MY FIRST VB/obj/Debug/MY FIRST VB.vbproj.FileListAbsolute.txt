@@ -1,0 +1,2 @@
+C:\Users\pcuser\Desktop\MY FIRST VB\MY FIRST VB\bin\Debug\MY FIRST VB.exe.config
+E:\Programming\MY FIRST VB\MY FIRST VB\obj\Debug\MY FIRST VB.vbprojAssemblyReference.cache

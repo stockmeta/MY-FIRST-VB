@@ -1,0 +1,11 @@
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\bin\Debug\FIRST DATABASE.exe.config
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\obj\Debug\FIRST_DATABASE.Form1.resources
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\obj\Debug\FIRST_DATABASE.Resources.resources
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\obj\Debug\FIRST DATABASE.vbproj.GenerateResource.Cache
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\bin\Debug\FIRST DATABASE.accdb
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\bin\Debug\FIRST DATABASE.exe
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\bin\Debug\FIRST DATABASE.pdb
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\bin\Debug\FIRST DATABASE.xml
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\obj\Debug\FIRST DATABASE.exe
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\obj\Debug\FIRST DATABASE.xml
+C:\Users\pcuser\AppData\Local\Temporary Projects\FIRST DATABASE\obj\Debug\FIRST DATABASE.pdb
